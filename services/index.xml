@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サービス on 合同会社エアプラン</title>
+    <link>/services/</link>
+    <description>Recent content in サービス on 合同会社エアプラン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 08 Jun 2020 12:33:46 +0900</lastBuildDate>
+    
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>※エアコンレンタル※</title>
+      <link>/services/rental/</link>
+      <pubDate>Mon, 08 Jun 2020 12:33:46 +0900</pubDate>
+      
+      <guid>/services/rental/</guid>
+      <description>学生向け賃貸をやっている大家さん、 新生活を始める学生さんに朗報。 レンタルエアコンで快適生活、取付から使用中の修理、退去時の取外まで手間いらず</description>
+    </item>
+    
+    <item>
+      <title>エアコンクリーニング</title>
+      <link>/services/cleaning/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/cleaning/</guid>
+      <description>エアコンの室外機・室内機をきれいに掃除し、よりエコできれいな空気を❗ サービスメリット 健康的な住環境 エアコンの稼働効率が向上し、消費電力が減少</description>
+    </item>
+    
+    <item>
+      <title>エアコン出張買取</title>
+      <link>/services/gobuy/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/services/gobuy/</guid>
+      <description>引越しや買い替えで不要になったエアコンは弊社が出張買い取ります。 無料見積もりや依頼は問い合わせフォームから、お願いします。</description>
+    </item>
+    
+  </channel>
+</rss>
